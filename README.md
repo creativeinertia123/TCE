@@ -1,2 +1,2 @@
-# tce-solver
-Dumb streamlit user friendly TCE solver 
+# TCE
+TCE solver for drybulk trading
